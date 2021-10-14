@@ -1,0 +1,9 @@
+﻿<Application x:Class="Ermakov_ISP31_LuckyTicket.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Ermakov_ISP31_LuckyTicket"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
